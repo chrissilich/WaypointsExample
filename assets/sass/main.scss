@@ -1,0 +1,35 @@
+/* 
+==============================================
+CONTENT:	Project Name Here
+AUTHOR:		Your Name Here
+==============================================
+
+TABLE OF CONTENTS:
+
+1. Main Layout
+2. Content
+
+==============================================
+*/
+
+
+
+/* 1. Main Layout ================================= */
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: #ccc;
+}
+
+
+
+.cat {
+	// display: block;
+	height: 300px;
+	margin: 30px;
+	opacity: 0;
+}
+
